@@ -1,0 +1,22 @@
+.example-box {
+    display: flex;
+    align-items: center;
+}
+
+.icon-container {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.example-box .icon-container {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.delete-icon{
+  cursor: pointer;
+}
+
+  
